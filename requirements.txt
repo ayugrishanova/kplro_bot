@@ -1,0 +1,9 @@
+telebot
+nltk
+nltk.corpus
+nltk.tokenize
+wordcloud
+matplotlib
+pymorphy2
+json
+requests
