@@ -26,7 +26,7 @@ my_model.py | В нем мы обращаемся к сервису api hugging-
 
 Bot link: [Neurowhiner](https://t.me/kplro_bot)
 # About the project
-I use a pre-trained Russian text generation model [Sberbank](https://huggingface.co/sberbanka i/rugpt3large_based_on_gpt2). Fine-tuning was performed on a small corpus of texts from the website https://killpls.me, where people share their problems using peculiar vocabulary and syntactic constructions. The process of fine-tuning can be traced in the notebook **proga_project.ipynb**.
+I use a pre-trained Russian text generation model [from Sberbank](https://huggingface.co/sberbank-ai/rugpt3large_based_on_gpt2). Fine-tuning was performed on a small corpus of texts from the website https://killpls.me, where people share their problems using peculiar vocabulary and syntactic constructions. The process of fine-tuning can be traced in the notebook **proga_project.ipynb**.
 The model was uploaded by me to the [huggingface] service(https://huggingface.co/pro/model_proga ), I access the model via the api.
 
 The repository contains four .py files.
